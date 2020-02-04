@@ -1,4 +1,3 @@
-
 @echo off
 title= ---- Able many tings ----
 %homedrive%
